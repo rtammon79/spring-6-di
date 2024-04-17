@@ -1,0 +1,5 @@
+guru\springframework\spring6di\controllers\ConstructorInjectedControllerTest.class
+guru\springframework\spring6di\controllers\MyControllerTest.class
+guru\springframework\spring6di\Spring6DiApplicationTests.class
+guru\springframework\spring6di\controllers\PropertyInjectedControllerTest.class
+guru\springframework\spring6di\controllers\SetterInjectedControllerTest.class
