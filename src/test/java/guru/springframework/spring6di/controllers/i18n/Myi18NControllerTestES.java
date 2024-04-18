@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 /**
  * created by R. Ammon
  */
-@ActiveProfiles("ES")
+@ActiveProfiles({"ES", "dev"})
 @SpringBootTest
 class Myi18NControllerTestES {
 

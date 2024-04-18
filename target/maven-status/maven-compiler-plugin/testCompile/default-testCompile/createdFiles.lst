@@ -1,4 +1,7 @@
+guru\springframework\spring6di\controllers\i18n\Myi18NControllerTestES.class
+guru\springframework\spring6di\controllers\EnvironmentControllerTest.class
 guru\springframework\spring6di\controllers\ConstructorInjectedControllerTest.class
+guru\springframework\spring6di\controllers\i18n\Myi18NControllerTestEN.class
 guru\springframework\spring6di\controllers\MyControllerTest.class
 guru\springframework\spring6di\Spring6DiApplicationTests.class
 guru\springframework\spring6di\controllers\PropertyInjectedControllerTest.class
